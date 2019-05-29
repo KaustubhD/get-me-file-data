@@ -14,4 +14,4 @@ On the back-end,
 Made with [Glitch](https://glitch.com/)
 -------------------
 
-Link -> [\ ゜o゜)ノ] (https://get-me-file-data.glitch.me)
+Link -> [\ ゜o゜)ノ](https://get-me-file-data.glitch.me)

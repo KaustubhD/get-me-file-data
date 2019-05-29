@@ -1,5 +1,4 @@
 let analysis = (req, res) => {
-  console.log(req.file)
   let obj = {
     name: req.file.originalname,
     type: req.file.mimetype,
